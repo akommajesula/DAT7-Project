@@ -1,0 +1,22 @@
+What is the question you hope to answer?
+
+what are the main factors that determine DC metrorail ridership everyday? 
+
+What data are you planning to use to answer that question?
+
+The Washington Metropolitan Area Transit Authority  (WMATA) has data available with daily ridership figures for the past several years. 
+Using this as the outcome, I want to see how significant  factors such as weather, gas prices, unemployment, holidays, and median income to name a few. 
+
+What do you know about the data so far?
+
+The WMATA data is available through their website for free while the other others are also available through through public domains. 
+Gas: U.S Energy Administration
+Weather: NOAA
+Holidays: historic calendars
+median income: department of numbers
+unemployment: bureau of labor statistics
+Some of this data is provided as a daily measure (ridership, weather, holidays) while others are provided weekly (gas prices) as well as yearly (unemployment and median income). The challenge is to merge all of them together. 
+
+Why did you choose this topic?
+I choose this topic because I had always been interesting in queuing theory and its applications to traffic and commuting. 
+This allows me to use data science to look at both and see what the main factors are for why people decide to take the metro instead of an alternative mode of transportation. In addition I feel this type of question and project will give me the opportunity to really test what we are learning in class from data mining to regression. 
